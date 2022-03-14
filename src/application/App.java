@@ -4,7 +4,6 @@ public class App {
 
   public static void main(String[] args) {
     System.out.println("Hello world!");
-
-//    new line
+    System.out.println("retirei o comentarios");
   }
 }
